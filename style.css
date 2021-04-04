@@ -1,0 +1,69 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+
+canvas{
+padding-left: 90px;
+padding-bottom: 50px;
+}
+
+#heading_div
+{
+    text-align: center;
+    background-color: #45aeb5;
+    border-radius: 15px;
+    border: 5px solid #333333;
+    color: #26de85;
+    height: 100px;
+}
+
+#header_instructions
+{
+    background-color: #3d84ff;
+    color: yellow;
+    border: 2px solid black;
+    width: 175px;
+    height: 25px;
+    text-align: center;
+}
+
+#heading
+{
+    font-size: 30px;
+    font-family: 'Gorditas', cursive;
+}
+
+#note
+{
+    background-color: #4766ff;
+    color: white;
+    border: 3px solid black;
+    font-size: 15px;
+    border-radius: 7px;
+    height: 40px;
+    text-align: center;
+    width: 800px;
+    font-family: 'Mukta Vaani', sans-serif;
+}
+
+#restart_button
+{
+    visibility: hidden;
+}
+
+#instructions_button
+{
+    float: right;
+    margin-top: -38px;
+    margin-right: 50px;
+}
+
+.copy_right_footer
+{
+    font-family: 'Acme', sans-serif;
+    background-color: #ff711f;
+    color: #405cff;
+    font-size: 23px;
+}
